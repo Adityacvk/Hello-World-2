@@ -30,6 +30,9 @@ main{
     border-radius: 20px;
     margin-top: 25px;
 }
+.detail section.with-code{
+    padding: 0;
+}
 h1{
     background-image: url("images/Logo.png");
     background-repeat: no-repeat;
