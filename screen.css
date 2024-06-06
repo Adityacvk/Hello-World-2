@@ -12,9 +12,8 @@ main{
     width: 800px;
 }
 .masthead{
-    background-image: url('images/Computer image.png');
-    background-size: cover;
-    background-position: bottom;
+ 
+    background: no-repeat bottom / cover url('images/Computer image.png');
     height: 200px;
     border-radius: 20px;
 }
@@ -25,7 +24,7 @@ main{
 .details section {
     flex-grow:1;
     flex-basis: 0;
-    background: #eee;
+    background: #e9eaec;
     border-radius: 20px;
     margin-top: 25px;
 }
