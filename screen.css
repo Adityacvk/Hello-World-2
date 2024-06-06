@@ -30,8 +30,16 @@ main{
     border-radius: 20px;
     margin-top: 25px;
 }
-.detail section.with-code{
+.details section.with-code{
     padding: 0;
+}
+div.code-copy{
+    padding: 25px;
+
+}
+div.code-html{
+    padding: 25px;
+    background:#424242 ;
 }
 h1{
     background-image: url("images/Logo.png");
